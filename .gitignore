@@ -3,3 +3,4 @@
 *.conf
 documentacion/*
 bower.json
+bower_components
